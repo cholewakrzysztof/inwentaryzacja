@@ -7,7 +7,7 @@ Projekt działający podobnie do bazy danych, lecz w samym C#
 3. Włączyć projekt!
 
 # Opis
-Projekt stworzony w trakcie nauki Windows Forms, symulujacy działanie bazy danych potrzebnej do stworzenia inwentaryzacji sprzętu szkolnego. Zawiera początki rozwiązań obiektowych
+Projekt stworzony w trakcie nauki Windows Forms, symulujacy działanie bazy danych potrzebnej do stworzenia inwentaryzacji sprzętu szkolnego. Zawiera moje początki rozwiązań obiektowych
 
 # Dodawanie sal
 1. Kliknij sale
